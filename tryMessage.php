@@ -14,6 +14,7 @@ $message = $update["message"]["text"];
 switch($message){
 case "/test":
   sendMessage($ChatId,"test");
+  break;
 default:
   sendMessage("default");
   }
