@@ -5,9 +5,10 @@ $RSSbot = "214162234:AAHoD0x4AHlSUT-zSzF1hBxvlfY-b7LFMgk"
 $website = "http://api.telegram.org/bot".$RSSbot;
 
 $update = file_get_contents('php://input');
+
 $update = json_decode($update,TRUE);
 
-$chatID = $update["message"]["chat"]["id];
+$chatID = $update["message"]["chat"]["id"];
 $message = $update["message"]["text"];
 
 switch($message){
