@@ -1,0 +1,134 @@
+package org.telegram.updateshandlers;
+
+import org.telegram.BotConfig;
+import org.telegram.telegrambots.TelegramApiException;
+import org.telegram.telegrambots.api.methods.send.SendMessage;
+import org.telegram.telegrambots.api.objects.Message;
+import org.telegram.telegrambots.api.objects.Update;
+import org.telegram.telegrambots.bots.TelegramLongPollingBot;
+import org.telegram.telegrambots.updatesreceivers.BotSession;
+
+import de.vogella.rss.global.GlobalRssText;
+import de.vogella.rss.model.Feed;
+import de.vogella.rss.read.RSSFeedParser;
+import de.vogella.rss.read.tryRSS;
+
+
+/**
+ * @author Ruben Bermudez
+ * @version 1.0
+ * @brief Handler for updates to Weather Bot
+ * @date 24 of June of 2015
+ */
+public class WeatherHandlers extends TelegramLongPollingBot {
+    private static final String LOGTAG = "WEATHERHANDLERS";
+    
+    private static final int STARTSTATE = 0;
+    private static final int MAINMENU = 1;
+    private static final int CURRENTWEATHER = 2;
+    private static final int CURRENTNEWWEATHER = 3;
+    private static final int CURRENTLOCATIONWEATHER = 4;
+    private static final int FORECASTWEATHER = 5;
+    private static final int FORECASTNEWWEATHER = 6;
+    private static final int FORECASTLOCATIONWEATHER = 7;
+    private static final int ALERT = 8;
+    private static final int ALERTNEW = 9;
+    private static final int ALERTDELETE = 10;
+    private static final int SETTINGS = 11;
+    private static final int LANGUAGE = 12;
+    private static final int UNITS = 13;
+    public static String language = "English";
+    
+    public static String warnUrl;
+    public static String weatherUrl;
+    
+    
+    public static String ChatId;
+    @Override
+    public String getBotUsername() {
+            // TODO Auto-generated method stub
+            return BotConfig.USERNAMEWEATHER;
+    }
+
+
+    @Override
+    public String getBotToken() {
+            // TODO Auto-generated method stub
+            return BotConfig.TOKENWEATHER;
+    }
+    
+    public void Message(String ChatId, String Text){
+    SendMessage sendMessageRequest = new SendMessage();
+	sendMessageRequest.setChatId(ChatId.toString());
+	sendMessageRequest.setText(Text);
+	try{
+		sendMessage(sendMessageRequest);
+		} catch (TelegramApiException e){}
+    }
+    
+    @Override
+    public void onUpdateReceived(Update update) {
+            //check if the update has a message
+    		
+            if(update.hasMessage()){
+            	
+                    Message message = update.getMessage();
+                    
+                    switch(language){
+                    case "English" : warnUrl = "http://rss.weather.gov.hk/rss/WeatherWarningSummaryv2.xml";
+                    break;
+                    case "TradChinese" : warnUrl = "http://rss.weather.gov.hk/rss/WeatherWarningSummaryv2_uc.xml";
+                    break;
+                    case "SimplifiedChinese" : warnUrl = "http://gbrss.weather.gov.hk/rss/WeatherWarningSummaryv2_uc.xml";
+                    break;
+                    }
+                    
+                    //check if the message has text. it could also  contain for example a location ( message.hasLocation() )
+                    if(message.hasText()){
+                    		String Id = message.getChatId().toString();
+                    		ChatId = Id;
+                    		if(message.getText().contains("/topics")){
+                    			String Text = "currentWeather" + "\n" + "currentWarning" + "\n" + "Subscribe" + "\n" + "UnSubscribe";
+                    			Message(Id,Text);
+                    		}
+                    		
+                    	    if (message.getText().contains("/currentWarning")){
+                    	    	String Text = tryRSS.readRSSFeed(warnUrl,"Warning");
+	                            Message(Id,Text);
+                    	    } 
+                    	    
+                    	    if (message.getText().contains("/currentWeather")){
+                    	    	String Text = tryRSS.readRSSFeed("http://rss.weather.gov.hk/rss/CurrentWeather.xml","Weather");
+                    	    	Message(Id,Text);
+                    	    }
+                    	    if(message.getText().contains("/SubscribeWeather")){
+                    	    	BotSession.isSubscribedWeather = true;
+                    	    	Message(Id,"Subscribed Weather");
+                    	    }
+                    	    if(message.getText().contains("/unSubscribeWeather")){
+                    	    	BotSession.isSubscribedWeather = false;
+                    	    	Message(Id,"Unsubscribed Weather");
+                    	    }
+                    	    if(message.getText().contains("/SubscribeWarning")){
+                    	    	BotSession.isSubscribedWarning = true;
+                    	    	Message(Id,"Subscribed Warning");
+                    	    }
+                    	    if(message.getText().contains("/unSubscribeWarning")){
+                    	    	BotSession.isSubscribedWarning = false;
+                    	    	Message(Id,"Unsubscribed Warning");
+                    	    }
+                    	    if(message.getText().contains("/English")){
+                    	    	language = "English";
+                    	    }
+                    	    if(message.getText().contains("/繁體中文")){
+                    	    	language = "TradChinese";
+                    	    }
+                    	    if(message.getText().contains("/簡體中文")) {
+                    	    	language = "SimplifiedChinese";
+                    	    }
+                    }//end if()
+            }//end  if()
+
+    }//end onUpdateReceived()
+    
+}

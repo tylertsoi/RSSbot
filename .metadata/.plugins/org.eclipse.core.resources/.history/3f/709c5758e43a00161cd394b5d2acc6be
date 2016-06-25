@@ -1,0 +1,73 @@
+package de.vogella.rss.read;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.io.*;
+
+
+public class tryRSS {
+
+    public static void main(String[] args) {
+    }
+
+    public static String readRSSFeed(String urlAddress, String event){
+        try{
+            URL rssUrl = new URL (urlAddress);
+            BufferedReader in = new BufferedReader(new InputStreamReader(rssUrl.openStream()));
+            String sourceCode = "";
+            String line;
+            boolean flag = false;
+            while((line=in.readLine())!=null){
+            	if(event=="Weather"){
+            		
+            		if(line.contains("<p>At")){flag = true;
+            		line = in.readLine();
+            		String temp = "At ";
+            		temp += line;
+            		temp = temp.replace("  ", "");
+            		sourceCode += temp;
+            		}
+            		if(line.contains("</p>")){flag = false;}
+                if(line.contains("<br/>") && (flag = true)){
+                    String temp = line;
+                    int Pos = temp.indexOf("<br/>");
+                    temp = temp.substring(0,Pos);
+                    temp=temp.replace("<br/>","");
+                    temp=temp.replace("</table>","");
+                    temp=temp.replace("  ","");
+                    sourceCode +=temp+ "\n" ;
+                }
+                }
+            	else if(event=="Warning"){
+            		if(line.contains("<title><![CDATA[")){
+            			String temp = line;
+                        int lastPos = temp.indexOf("]]></title>");
+                        temp = temp.substring(0,lastPos);
+                        temp=temp.replace("]]></title>","");
+                        temp=temp.replace("<title><![CDATA[","");
+                        temp=temp.replace("  ","");
+                        sourceCode +=temp+ "\n" ;
+            		}
+            	}
+            	else if(event=="pubDate"){
+            		if(line.contains("<pubDate>")){
+            			String temp = line;
+                        int lastPos = temp.indexOf("</pubDate>");
+                        temp = temp.substring(0,lastPos);
+                        temp=temp.replace("<pubDate>","");
+                        temp=temp.replace("</pubDate","");
+                        temp=temp.replace("  ","");
+                        sourceCode +=temp+ "\n" ;
+            	}
+            }
+            }
+            in.close();
+            return sourceCode;
+        } catch (MalformedURLException ue){
+            System.out.println("Malformed URL");
+        } catch (IOException ioe){
+            System.out.println("Something went wrong reading the contents");
+        }
+        return null;
+    }
+}
