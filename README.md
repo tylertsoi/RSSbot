@@ -7,15 +7,16 @@ This is a Java only Telegrambot project using Long Polling Method. GetUpdates() 
 
 To use and edit this project, please down eclipse java EE. Instructions:
 
-Create your own bot from BotFather.
+1. Create your own bot from BotFather.
 
-Record your token number and bot name.
+2. Record your token number and bot name.
 
-Import-> choose existing Maven project and choose file (RSS) and then change the token in BotConfig.java to your own token.
+3. Import-> choose existing Maven project and choose file (RSS) and then change the token in BotConfig.java to your own token.
+BotConfig.java and be found in src/main/java/org/telegram/BotConfig.java
 
-Right Click project file in project explorer, choose properties -> Java Compiler -> change the compiler compliance level to 1.8.
+4. Right Click project file in project explorer, choose properties -> Java Compiler -> change the compiler compliance level to 1.8.
 
-Run Main.java in eclipse.
+5. Run Main.java in eclipse.
 
 type commands in your bot
 
