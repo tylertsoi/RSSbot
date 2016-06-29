@@ -7,56 +7,32 @@ import org.telegram.telegrambots.api.objects.Message;
 import org.telegram.telegrambots.api.objects.Update;
 import org.telegram.telegrambots.bots.TelegramLongPollingBot;
 import org.telegram.telegrambots.updatesreceivers.BotSession;
-
-import de.vogella.rss.global.GlobalRssText;
-import de.vogella.rss.model.Feed;
-import de.vogella.rss.read.RSSFeedParser;
-import de.vogella.rss.read.tryRSS;
-
-
-/**
- * @author Ruben Bermudez
- * @version 1.0
- * @brief Handler for updates to Weather Bot
- * @date 24 of June of 2015
- */
+    //**********By Tyler Tsoi************
 public class WeatherHandlers extends TelegramLongPollingBot {
     private static final String LOGTAG = "WEATHERHANDLERS";
-    
-    private static final int STARTSTATE = 0;
-    private static final int MAINMENU = 1;
-    private static final int CURRENTWEATHER = 2;
-    private static final int CURRENTNEWWEATHER = 3;
-    private static final int CURRENTLOCATIONWEATHER = 4;
-    private static final int FORECASTWEATHER = 5;
-    private static final int FORECASTNEWWEATHER = 6;
-    private static final int FORECASTLOCATIONWEATHER = 7;
-    private static final int ALERT = 8;
-    private static final int ALERTNEW = 9;
-    private static final int ALERTDELETE = 10;
-    private static final int SETTINGS = 11;
-    private static final int LANGUAGE = 12;
-    private static final int UNITS = 13;
+    //set default language as English
     public static String language = "English";
-    
+    //set default Weather/Information warning URL as English
     public static String warnUrl = "http://rss.weather.gov.hk/rss/WeatherWarningSummaryv2.xml";
     public static String weatherUrl = "http://rss.weather.gov.hk/rss/CurrentWeather.xml";
-    
-    
+    //Create variable storing ChatId to store the Id of User
     public static String ChatId;
     @Override
+    
+    //Get the bot user name
     public String getBotUsername() {
             // TODO Auto-generated method stub
             return BotConfig.USERNAMEWEATHER;
     }
 
-
+    //Get the bot token
     @Override
     public String getBotToken() {
             // TODO Auto-generated method stub
             return BotConfig.TOKENWEATHER;
     }
     
+    //function use for Sending Message to User
     public void Message(String ChatId, String Text){
     SendMessage sendMessageRequest = new SendMessage();
 	sendMessageRequest.setChatId(ChatId.toString());
@@ -66,6 +42,7 @@ public class WeatherHandlers extends TelegramLongPollingBot {
 		} catch (TelegramApiException e){}
     }
     
+    //function run when update received, get the message from User
     @Override
     public void onUpdateReceived(Update update) {
             //check if the update has a message
@@ -94,7 +71,7 @@ public class WeatherHandlers extends TelegramLongPollingBot {
                     		String Id = message.getChatId().toString();
                     		ChatId = Id;
                     		if(message.getText().contains("/topics")){
-                    			String Text = "currentWeather" + "\n" + "currentWarning" + "\n" + "Subscribe" + "\n" + "UnSubscribe";
+                    			String Text = "currentWeather" + "\n" + "currentWarning" + "\n" + "subscribeWeather" + "\n" + "subscribeWarning" + "\n" + "unSubscribeWeather" + "\n" + "unSubscribeWarning" + "\n" + "繁體中文" + "\n" + "简体中文" + "\n" + "English";
                     			Message(Id,Text);
                     		}
                     		
@@ -107,7 +84,7 @@ public class WeatherHandlers extends TelegramLongPollingBot {
                     	    	String Text = tryRSS.readRSSFeed(weatherUrl,"Weather");
                     	    	Message(Id,Text);
                     	    }
-                    	    if(message.getText().contains("/SubscribeWeather")){
+                    	    if(message.getText().contains("/subscribeWeather")){
                     	    	BotSession.isSubscribedWeather = true;
                     	    	Message(Id,"Subscribed Weather");
                     	    }
@@ -115,7 +92,7 @@ public class WeatherHandlers extends TelegramLongPollingBot {
                     	    	BotSession.isSubscribedWeather = false;
                     	    	Message(Id,"Unsubscribed Weather");
                     	    }
-                    	    if(message.getText().contains("/SubscribeWarning")){
+                    	    if(message.getText().contains("/subscribeWarning")){
                     	    	BotSession.isSubscribedWarning = true;
                     	    	Message(Id,"Subscribed Warning");
                     	    }

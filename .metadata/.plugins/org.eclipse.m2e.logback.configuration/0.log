@@ -422,3 +422,687 @@
 2016-06-26 00:52:41,934 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
 2016-06-26 00:52:41,936 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-26 00:52:41,937 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-26 01:32:30,976 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-26 01:32:30,979 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-26 01:32:30,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-26 01:32:30,981 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-26 01:34:16,792 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-26 01:34:16,793 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-26 01:34:16,794 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-26 01:34:16,794 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-28 12:59:45,560 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-28 12:59:45,592 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-28 12:59:45,592 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-28 12:59:45,592 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-28 14:18:17,042 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-28 14:18:17,042 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-28 14:18:17,042 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-28 14:18:17,042 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:12:12,453 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:12:12,484 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:12:12,486 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:12:12,486 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:12:58,914 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:12:58,914 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:12:58,916 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:12:58,916 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:13:07,783 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:07,783 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:13:07,786 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:07,786 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:13:27,370 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:27,371 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:13:27,373 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:27,373 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:13:47,790 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:47,790 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:13:47,792 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:47,792 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:13:58,213 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:58,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:13:58,215 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:13:58,215 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:14:04,055 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:14:04,055 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:14:04,056 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:14:04,056 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:14:18,967 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:14:18,967 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:14:18,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:14:18,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:16:33,382 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:16:33,383 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:16:33,385 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:16:33,385 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:16:59,205 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:16:59,206 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:16:59,208 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:16:59,208 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:17:08,821 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:08,821 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:17:08,823 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:08,823 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:17:12,148 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:12,148 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:17:12,150 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:12,150 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:17:21,159 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:21,159 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:17:21,161 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:21,161 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:17:38,936 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:38,936 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:17:38,938 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:17:38,938 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:18:01,984 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:18:01,984 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:18:01,986 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:18:01,986 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:18:12,743 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:18:12,743 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:18:12,745 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:18:12,746 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:18:24,166 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:18:24,170 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:18:24,172 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:18:24,172 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:19:34,950 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:19:34,951 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:19:34,953 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:19:34,953 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:19:50,983 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:19:50,984 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:19:50,986 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:19:50,986 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:20:11,668 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:20:11,668 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:20:11,673 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:20:11,673 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:20:14,995 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:20:14,995 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:20:14,996 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:20:14,997 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:21:14,585 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:21:14,586 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:21:14,587 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:21:14,587 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:21:29,056 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:21:29,057 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:21:29,058 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:21:29,058 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:22:03,758 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:03,758 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:22:03,760 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:03,761 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:22:19,801 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:19,801 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:22:19,805 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:19,805 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:22:24,707 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:24,707 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:22:24,709 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:24,709 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:22:34,367 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:34,368 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:22:34,369 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:22:34,369 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:23:00,114 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:23:00,115 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:23:00,116 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:23:00,117 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:25:24,853 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:25:24,853 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:25:24,855 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:25:24,855 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:26:20,140 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:20,140 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:26:20,142 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:20,142 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:26:27,816 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:27,816 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:26:27,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:27,818 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:26:33,283 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:33,283 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:26:33,285 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:33,285 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:26:36,349 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:36,349 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:26:36,350 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:36,351 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:26:57,767 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:57,767 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:26:57,769 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:26:57,769 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:27:01,116 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:01,117 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:27:01,118 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:01,118 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:27:02,757 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:02,758 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:27:02,760 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:02,760 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:27:12,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:12,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:27:12,797 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:12,798 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 16:27:18,825 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:18,825 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 16:27:18,827 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 16:27:18,827 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:41:55,184 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:41:55,184 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:41:55,186 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:41:55,186 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:41:58,656 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:41:58,656 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:41:58,658 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:41:58,658 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:01,466 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:01,466 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:01,468 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:01,468 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:04,278 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:04,278 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:04,280 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:04,280 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:06,915 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:06,915 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:06,916 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:06,916 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:09,862 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:09,863 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:09,864 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:09,864 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:12,227 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:12,227 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:12,228 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:12,228 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:14,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:14,847 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:14,849 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:14,849 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:18,297 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:18,297 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:18,298 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:18,298 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:42:20,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:20,691 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:42:20,693 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:42:20,693 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:44:18,293 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:44:18,293 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:44:18,295 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:44:18,295 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:44:59,300 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:44:59,301 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:44:59,304 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:44:59,305 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:45:12,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:45:12,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:45:12,180 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:45:12,180 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:45:25,424 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:45:25,425 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:45:25,426 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:45:25,426 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:45:42,093 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:45:42,094 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:45:42,095 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:45:42,095 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:46:08,053 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:46:08,054 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:46:08,056 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:46:08,056 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:46:39,922 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:46:39,923 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:46:39,926 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:46:39,927 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:47:05,603 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:47:05,603 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:47:05,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:47:05,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:47:27,787 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:47:27,787 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:47:27,789 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:47:27,789 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:47:41,619 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:47:41,619 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:47:41,622 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:47:41,622 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:03,557 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:03,558 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:03,559 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:03,559 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:10,198 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:10,198 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:10,200 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:10,200 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:15,200 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:15,201 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:15,202 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:15,202 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:30,157 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:30,157 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:30,158 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:30,159 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:34,425 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:34,425 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:34,427 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:34,427 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:51,857 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:51,858 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:51,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:51,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:48:58,694 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:58,694 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:48:58,697 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:48:58,697 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:49:13,461 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:49:13,461 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:49:13,462 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:49:13,462 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:49:58,558 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:49:58,559 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:49:58,560 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:49:58,560 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:14,751 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:14,751 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:14,753 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:14,753 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:17,414 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:17,415 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:17,416 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:17,416 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:21,186 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:21,186 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:21,187 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:21,187 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:24,332 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:24,332 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:24,333 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:24,333 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:26,510 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:26,510 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:26,512 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:26,512 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:32,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:32,175 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:32,177 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:32,177 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:34,526 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:34,527 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:34,528 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:34,528 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:50:56,315 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:56,315 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:50:56,316 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:50:56,316 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:51:16,556 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:51:16,556 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:51:16,558 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:51:16,558 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:52:04,368 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:52:04,368 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:52:04,369 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:52:04,370 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:52:54,757 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:52:54,757 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:52:54,759 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:52:54,760 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:52:58,797 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:52:58,797 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:52:58,799 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:52:58,799 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:01,807 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:01,808 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:01,811 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:01,811 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:05,019 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:05,019 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:05,020 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:05,020 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:07,795 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:07,795 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:07,796 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:07,797 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:10,556 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:10,556 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:10,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:10,558 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:17,432 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:17,432 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:17,434 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:17,434 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:24,680 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:24,680 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:24,681 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:24,682 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:53:36,379 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:36,380 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:53:36,381 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:53:36,381 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:54:36,185 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:54:36,186 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:54:36,188 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:54:36,188 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:54:39,713 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:54:39,713 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:54:39,715 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:54:39,715 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:54:57,813 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:54:57,813 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:54:57,815 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:54:57,815 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:55:35,591 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:55:35,591 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:55:35,592 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:55:35,593 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:56:21,788 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:56:21,788 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:56:21,790 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:56:21,790 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:56:26,323 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:56:26,324 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:56:26,326 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:56:26,326 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:56:29,224 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:56:29,225 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:56:29,226 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:56:29,226 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:57:17,062 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:57:17,062 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:57:17,064 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:57:17,064 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:58:00,766 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:58:00,766 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:58:00,768 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:58:00,768 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:58:25,227 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:58:25,227 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:58:25,229 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:58:25,229 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:58:55,466 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:58:55,466 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:58:55,467 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:58:55,468 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:59:07,443 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:07,443 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:59:07,444 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:07,444 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:59:10,804 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:10,805 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:59:10,807 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:10,807 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:59:14,242 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:14,243 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:59:14,244 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:14,244 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 17:59:17,378 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:17,378 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 17:59:17,379 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 17:59:17,379 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:33,599 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:33,600 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:33,601 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:33,601 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:41,086 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:41,086 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:41,087 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:41,088 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:43,878 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:43,878 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:43,880 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:43,880 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:48,272 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:48,272 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:48,273 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:48,274 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:51,190 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:51,190 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:51,191 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:51,191 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:54,140 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:54,140 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:54,142 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:54,142 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:57,074 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:57,075 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:57,076 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:57,076 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:00:59,958 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:59,958 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:00:59,959 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:00:59,960 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:01:09,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:01:09,515 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:01:09,516 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:01:09,517 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:01:33,452 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:01:33,452 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:01:33,453 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:01:33,453 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:03:13,635 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:03:13,636 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:03:13,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:03:13,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:03:52,933 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:03:52,934 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:03:52,935 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:03:52,935 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:04:46,608 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:04:46,609 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:04:46,610 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:04:46,610 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:05:45,208 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:45,209 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:05:45,210 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:45,211 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:05:47,720 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:47,720 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:05:47,721 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:47,721 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:05:50,570 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:50,570 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:05:50,572 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:50,572 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:05:55,975 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:55,975 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:05:55,976 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:05:55,977 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:12,939 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:12,940 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:12,941 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:12,941 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:20,358 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:20,358 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:20,360 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:20,360 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:34,896 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:34,897 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:34,899 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:34,899 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:37,268 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:37,269 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:37,270 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:37,270 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:39,440 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:39,441 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:39,442 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:39,442 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:40,549 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:40,549 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:40,551 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:40,551 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:08:41,613 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:41,614 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:08:41,615 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:08:41,615 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:10:22,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:10:22,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:10:22,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:10:22,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:11:10,532 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:11:10,532 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:11:10,534 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:11:10,534 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:11:20,325 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:11:20,325 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:11:20,328 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:11:20,329 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:11:55,092 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:11:55,093 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:11:55,094 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:11:55,094 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:12:01,146 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:12:01,147 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:12:01,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:12:01,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:12:20,861 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:12:20,862 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:12:20,863 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:12:20,863 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:12:27,923 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:12:27,923 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:12:27,924 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:12:27,924 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:13:21,554 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:13:21,555 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:13:21,557 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:13:21,557 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:14:01,154 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:01,154 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:14:01,155 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:01,155 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:14:04,899 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:04,899 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:14:04,901 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:04,901 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:14:09,400 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:09,400 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:14:09,401 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:09,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:14:13,981 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:13,981 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:14:13,983 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:14:13,983 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:15:03,637 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:15:03,637 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:15:03,639 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:15:03,639 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:16:04,532 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:04,532 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:16:04,534 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:04,534 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:16:18,542 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:18,543 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:16:18,544 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:18,544 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:16:35,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:35,091 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:16:35,092 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:35,093 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:16:54,382 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:54,383 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:16:54,384 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:16:54,384 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:17:23,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:17:23,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:17:23,149 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:17:23,149 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:27:15,467 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:27:15,467 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:27:15,469 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:27:15,470 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:28:17,062 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:28:17,062 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:28:17,064 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:28:17,064 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:29:42,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:29:42,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:29:42,949 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:29:42,949 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:30:31,270 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:30:31,270 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:30:31,272 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:30:31,272 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:31:04,126 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:31:04,126 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:31:04,128 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:31:04,128 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:31:47,341 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:31:47,342 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:31:47,343 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:31:47,343 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:32:41,863 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:32:41,864 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:32:41,865 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:32:41,866 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:33:17,921 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:33:17,921 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:33:17,925 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:33:17,925 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:33:27,453 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:33:27,453 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:33:27,454 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:33:27,454 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 18:58:44,868 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:58:44,869 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 18:58:44,872 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 18:58:44,872 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:24:14,693 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:24:14,694 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:24:14,696 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:24:14,696 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:24:24,454 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:24:24,454 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:24:24,456 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:24:24,456 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:24:49,988 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:24:49,988 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:24:49,990 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:24:49,990 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:25:06,191 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:25:06,191 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:25:06,192 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:25:06,192 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:25:43,975 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:25:43,975 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:25:43,977 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:25:43,977 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:29:08,922 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:29:08,923 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:29:08,925 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:29:08,925 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:29:14,112 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:29:14,112 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:29:14,114 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:29:14,114 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:30:51,584 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:30:51,585 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:30:51,586 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:30:51,587 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:31:51,422 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:31:51,422 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:31:51,424 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:31:51,424 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:32:13,436 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:32:13,436 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:32:13,438 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:32:13,438 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:32:22,854 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:32:22,854 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:32:22,856 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:32:22,856 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:32:58,301 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:32:58,301 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:32:58,304 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:32:58,304 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:47:34,115 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:47:34,116 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:47:34,118 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:47:34,119 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources
+2016-06-29 20:58:33,491 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:58:33,494 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\main\resources
+2016-06-29 20:58:33,497 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-29 20:58:33,497 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Tyler\workspace\RSSBot\RSS\bot\src\test\resources

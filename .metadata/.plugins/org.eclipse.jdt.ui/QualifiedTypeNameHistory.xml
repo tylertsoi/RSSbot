@@ -4,4 +4,5 @@
 <fullyQualifiedTypeName name="de.vogella.rss.read.tryRSS"/>
 <fullyQualifiedTypeName name="org.telegram.telegrambots.updatesreceivers.BotSession"/>
 <fullyQualifiedTypeName name="org.telegram.updateshandlers.WeatherHandlers"/>
+<fullyQualifiedTypeName name="org.telegram.updateshandlers.tryRSS"/>
 </qualifiedTypeNameHistroy>

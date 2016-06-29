@@ -55,59 +55,25 @@ public class Message implements IBotApiObject {
     @JsonProperty(MESSAGEID_FIELD)
     private Integer messageId; ///< Integer	Unique message identifier
     @JsonProperty(FROM_FIELD)
-    private User from; ///< Optional. Sender, can be empty for messages sent to channels
-    @JsonProperty(DATE_FIELD)
     private Integer date; ///< Optional. Date the message was sent in Unix time
     @JsonProperty(CHAT_FIELD)
     private Chat chat; ///< Conversation the message belongs to
-    @JsonProperty(FORWARDFROM_FIELD)
-    private User forwardFrom; ///< Optional. For forwarded messages, sender of the original message
     @JsonProperty(FORWARDFROMCHAT_FIELD)
     private Chat forwardFromChat; ///< Optional. For messages forwarded from a channel, information about the original channel
     @JsonProperty(FORWARDDATE_FIELD)
     private Integer forwardDate; ///< Optional. For forwarded messages, date the original message was sent
     @JsonProperty(TEXT_FIELD)
     private String text; ///< Optional. For text messages, the actual UTF-8 text of the message
-    @JsonProperty(ENTITIES_FIELD)
-    /**
-     * Optional. For text messages, special entities like usernames, URLs,
-     * bot commands, etc. that appear in the text
-     */
-    private List<MessageEntity> entities;
-    @JsonProperty(AUDIO_FIELD)
-    private Audio audio; ///< Optional. Message is an audio file, information about the file
-    @JsonProperty(DOCUMENT_FIELD)
-    private Document document; ///< Optional. Message is a general file, information about the file
-    @JsonProperty(PHOTO_FIELD)
-    private List<PhotoSize> photo; ///< Optional. Message is a photo, available sizes of the photo
-    @JsonProperty(STICKER_FIELD)
-    private Sticker sticker; ///< Optional. Message is a sticker, information about the sticker
-    @JsonProperty(VIDEO_FIELD)
-    private Video video; ///< Optional. Message is a video, information about the video
-    @JsonProperty(CONTACT_FIELD)
-    private Contact contact; ///< Optional. Message is a shared contact, information about the contact
-    @JsonProperty(LOCATION_FIELD)
-    private Location location; ///< Optional. Message is a shared location, information about the location
-    @JsonProperty(VENUE_FIELD)
-    private Venue venue; ///< Optional. Message is a venue, information about the venue
     @JsonProperty(PINNED_MESSAGE_FIELD)
     private Message pinnedMessage; ///< Optional. Specified message was pinned. Note that the Message object in this field will not contain further reply_to_message fields even if it is itself a reply.
-    @JsonProperty(NEWCHATMEMBER_FIELD)
-    private User newChatMember; ///< Optional. A new member was added to the group, information about them (this member may be bot itself)
-    @JsonProperty(LEFTCHATMEMBER_FIELD)
-    private User leftChatMember; ///< Optional. A member was removed from the group, information about them (this member may be bot itself)
     @JsonProperty(NEWCHATTITLE_FIELD)
     private String newChatTitle; ///< Optional. A chat title was changed to this value
-    @JsonProperty(NEWCHATPHOTO_FIELD)
-    private List<PhotoSize> newChatPhoto; ///< Optional. A chat photo was change to this value
     @JsonProperty(DELETECHATPHOTO_FIELD)
     private Boolean deleteChatPhoto; ///< Optional. Informs that the chat photo was deleted
     @JsonProperty(GROUPCHATCREATED_FIELD)
     private Boolean groupchatCreated; ///< Optional. Informs that the group has been created
     @JsonProperty(REPLYTOMESSAGE_FIELD)
     private Message replyToMessage;
-    @JsonProperty(VOICE_FIELD)
-    private Voice voice; ///< Optional. Message is a voice message, information about the file
     @JsonProperty(CAPTION_FIELD)
     private String caption; ///< Optional. Caption for the document, photo or video, 0-200 characters
     @JsonProperty(SUPERGROUPCREATED_FIELD)
@@ -156,9 +122,6 @@ public class Message implements IBotApiObject {
     public Message(JSONObject jsonObject) {
         super();
         this.messageId = jsonObject.getInt(MESSAGEID_FIELD);
-        if (jsonObject.has(FROM_FIELD)) {
-            this.from = new User(jsonObject.getJSONObject(FROM_FIELD));
-        }
         if (jsonObject.has(DATE_FIELD)) {
             this.date = jsonObject.getInt(DATE_FIELD);
         }
@@ -166,77 +129,25 @@ public class Message implements IBotApiObject {
         if (jsonObject.has(FORWARDFROMCHAT_FIELD)) {
             this.forwardFromChat = new Chat(jsonObject.getJSONObject(FORWARDFROMCHAT_FIELD));
         }
-        if (jsonObject.has(FORWARDFROM_FIELD)) {
-            this.forwardFrom = new User(jsonObject.getJSONObject(FORWARDFROM_FIELD));
-        }
         if (jsonObject.has(FORWARDDATE_FIELD)) {
             this.forwardDate = jsonObject.getInt(FORWARDDATE_FIELD);
         }
         if (jsonObject.has(TEXT_FIELD)) {
             this.text = jsonObject.getString(TEXT_FIELD);
         }
-        if (jsonObject.has(ENTITIES_FIELD)) {
-            this.entities = new ArrayList<>();
-            JSONArray entities = jsonObject.getJSONArray(ENTITIES_FIELD);
-            for (int i = 0; i < entities.length(); i++) {
-                this.entities.add(new MessageEntity(entities.getJSONObject(i)));
-            }
-        }
-        if (jsonObject.has(AUDIO_FIELD)) {
-            this.audio = new Audio(jsonObject.getJSONObject(AUDIO_FIELD));
-        }
-        if (jsonObject.has(DOCUMENT_FIELD)) {
-            this.document = new Document(jsonObject.getJSONObject(DOCUMENT_FIELD));
-        }
-        if (jsonObject.has(PHOTO_FIELD)) {
-            this.photo = new ArrayList<>();
-            JSONArray photos = jsonObject.getJSONArray(PHOTO_FIELD);
-            for (int i = 0; i < photos.length(); i++) {
-                this.photo.add(new PhotoSize(photos.getJSONObject(i)));
-            }
-        }
-        if (jsonObject.has(STICKER_FIELD)) {
-            this.sticker = new Sticker(jsonObject.getJSONObject(STICKER_FIELD));
-        }
-        if (jsonObject.has(VIDEO_FIELD)) {
-            this.video = new Video(jsonObject.getJSONObject(VIDEO_FIELD));
-        }
-        if (jsonObject.has(CONTACT_FIELD)) {
-            this.contact = new Contact(jsonObject.getJSONObject(CONTACT_FIELD));
-        }
-        if (jsonObject.has(LOCATION_FIELD)) {
-            this.location = new Location(jsonObject.getJSONObject(LOCATION_FIELD));
-        }
-        if (jsonObject.has(VENUE_FIELD)) {
-            venue = new Venue(jsonObject.getJSONObject(VENUE_FIELD));
-        }
+        
         if (jsonObject.has(PINNED_MESSAGE_FIELD)) {
             pinnedMessage = new Message(jsonObject.getJSONObject(PINNED_MESSAGE_FIELD));
         }
-        if (jsonObject.has(VOICE_FIELD)) {
-            this.voice = new Voice(jsonObject.getJSONObject(VOICE_FIELD));
-        }
+        
         if (jsonObject.has(CAPTION_FIELD)) {
             this.caption = jsonObject.getString(CAPTION_FIELD);
-        }
-        if (jsonObject.has(NEWCHATMEMBER_FIELD)) {
-            this.newChatMember = new User(jsonObject.getJSONObject(NEWCHATMEMBER_FIELD));
-        }
-        if (jsonObject.has(LEFTCHATMEMBER_FIELD)) {
-            this.leftChatMember = new User(jsonObject.getJSONObject(LEFTCHATMEMBER_FIELD));
         }
         if (jsonObject.has(REPLYTOMESSAGE_FIELD)) {
             this.replyToMessage = new Message(jsonObject.getJSONObject(REPLYTOMESSAGE_FIELD));
         }
         if (jsonObject.has(NEWCHATTITLE_FIELD)) {
             this.newChatTitle = jsonObject.getString(NEWCHATTITLE_FIELD);
-        }
-        if (jsonObject.has(NEWCHATPHOTO_FIELD)) {
-            JSONArray photoArray = jsonObject.getJSONArray(NEWCHATPHOTO_FIELD);
-            this.newChatPhoto = new ArrayList<>();
-            for (int i = 0; i < photoArray.length(); i++) {
-                this.newChatPhoto.add(new PhotoSize(photoArray.getJSONObject(i)));
-            }
         }
         if (jsonObject.has(DELETECHATPHOTO_FIELD)) {
             this.deleteChatPhoto = true;
@@ -259,18 +170,10 @@ public class Message implements IBotApiObject {
         if (jsonObject.has(EDITDATE_FIELD)) {
             editDate = jsonObject.getInt(EDITDATE_FIELD);
         }
-
-        if (hasText() && entities != null) {
-            entities.forEach(x -> x.computeText(text));
-        }
     }
 
     public Integer getMessageId() {
         return messageId;
-    }
-
-    public User getFrom() {
-        return from;
     }
 
     public Integer getDate() {
@@ -281,10 +184,6 @@ public class Message implements IBotApiObject {
         return chat;
     }
 
-    public User getForwardFrom() {
-        return forwardFrom;
-    }
-
     public Integer getForwardDate() {
         return forwardDate;
     }
@@ -293,60 +192,12 @@ public class Message implements IBotApiObject {
         return text;
     }
 
-    public List<MessageEntity> getEntities() {
-        return entities;
-    }
-
-    public Audio getAudio() {
-        return audio;
-    }
-
-    public Document getDocument() {
-        return document;
-    }
-
-    public List<PhotoSize> getPhoto() {
-        return photo;
-    }
-
-    public Sticker getSticker() {
-        return sticker;
-    }
-
-    public Video getVideo() {
-        return video;
-    }
-
-    public Contact getContact() {
-        return contact;
-    }
-
-    public Location getLocation() {
-        return location;
-    }
-
-    public Venue getVenue() {
-        return venue;
-    }
-
     public Message getPinnedMessage() {
         return pinnedMessage;
     }
 
-    public User getNewChatMember() {
-        return newChatMember;
-    }
-
-    public User getLeftChatMember() {
-        return leftChatMember;
-    }
-
     public String getNewChatTitle() {
         return newChatTitle;
-    }
-
-    public List<PhotoSize> getNewChatPhoto() {
-        return newChatPhoto;
     }
 
     public Boolean getDeleteChatPhoto() {
@@ -361,9 +212,6 @@ public class Message implements IBotApiObject {
         return replyToMessage;
     }
 
-    public Voice getVoice() {
-        return voice;
-    }
 
     public String getCaption() {
         return caption;
@@ -409,28 +257,8 @@ public class Message implements IBotApiObject {
         return text != null && !text.isEmpty();
     }
 
-    public boolean isCommand() {
-        if (hasText() && entities != null) {
-            for (MessageEntity entity : entities) {
-                if (entity != null && entity.getOffset() == 0 &&
-                        EntityType.BOTCOMMAND.equals(entity.getType())) {
-                    return true;
-                }
-            }
-        }
-        return false;
-    }
-
-    public boolean hasDocument() {
-        return this.document != null;
-    }
-
     public boolean isReply() {
         return this.replyToMessage != null;
-    }
-
-    public boolean hasLocation() {
-        return location != null;
     }
 
     public Chat getForwardFromChat() {
@@ -445,9 +273,6 @@ public class Message implements IBotApiObject {
     public void serialize(JsonGenerator gen, SerializerProvider serializers) throws IOException {
         gen.writeStartObject();
         gen.writeNumberField(MESSAGEID_FIELD, messageId);
-        if (from != null) {
-            gen.writeObjectField(FROM_FIELD, from);
-        }
         if (date != null) {
             gen.writeNumberField(DATE_FIELD, date);
         }
@@ -455,67 +280,20 @@ public class Message implements IBotApiObject {
         if (forwardFromChat != null) {
             gen.writeObjectField(FORWARDFROMCHAT_FIELD, forwardFromChat);
         }
-        if (forwardFrom != null) {
-            gen.writeObjectField(FORWARDFROM_FIELD, forwardFrom);
-        }
         if (forwardDate != null) {
             gen.writeNumberField(FORWARDDATE_FIELD, forwardDate);
         }
         if (text != null) {
             gen.writeStringField(TEXT_FIELD, text);
         }
-        if (audio != null) {
-            gen.writeObjectField(AUDIO_FIELD, audio);
-        }
-        if (document != null) {
-            gen.writeObjectField(DOCUMENT_FIELD, document);
-        }
-        if (photo != null && photo.size() > 0) {
-            gen.writeArrayFieldStart(PHOTO_FIELD);
-            for (PhotoSize photoSize : photo) {
-                gen.writeObject(photoSize);
-            }
-            gen.writeEndArray();
-        }
-        if (sticker != null) {
-            gen.writeObjectField(STICKER_FIELD, sticker);
-        }
-        if (video != null) {
-            gen.writeObjectField(VIDEO_FIELD, video);
-        }
-        if (contact != null) {
-            gen.writeObjectField(CONTACT_FIELD, contact);
-        }
-        if (location != null) {
-            gen.writeObjectField(LOCATION_FIELD, location);
-        }
-        if (venue != null) {
-            gen.writeObjectField(VENUE_FIELD, venue);
-        }
-        if (voice != null) {
-            gen.writeObjectField(VOICE_FIELD, voice);
-        }
         if (caption != null) {
             gen.writeObjectField(CAPTION_FIELD, caption);
-        }
-        if (newChatMember != null) {
-            gen.writeObjectField(NEWCHATMEMBER_FIELD, newChatMember);
-        }
-        if (leftChatMember != null) {
-            gen.writeObjectField(LEFTCHATMEMBER_FIELD, leftChatMember);
         }
         if (replyToMessage != null) {
             gen.writeObjectField(REPLYTOMESSAGE_FIELD, replyToMessage);
         }
         if (newChatTitle != null) {
             gen.writeStringField(NEWCHATTITLE_FIELD, newChatTitle);
-        }
-        if (newChatPhoto != null && newChatPhoto.size() > 0) {
-            gen.writeArrayFieldStart(NEWCHATPHOTO_FIELD);
-            for (PhotoSize photoSize: newChatPhoto) {
-                gen.writeObject(photoSize);
-            }
-            gen.writeEndArray();
         }
         if (deleteChatPhoto != null) {
             gen.writeBooleanField(DELETECHATPHOTO_FIELD, deleteChatPhoto);
@@ -551,29 +329,15 @@ public class Message implements IBotApiObject {
     public String toString() {
         return "Message{" +
                 "messageId=" + messageId +
-                ", from=" + from +
                 ", date=" + date +
                 ", chat=" + chat +
-                ", forwardFrom=" + forwardFrom +
                 ", forwardFromChat=" + forwardFromChat +
                 ", forwardDate=" + forwardDate +
                 ", text='" + text + '\'' +
-                ", audio=" + audio +
-                ", document=" + document +
-                ", photo=" + photo +
-                ", sticker=" + sticker +
-                ", video=" + video +
-                ", contact=" + contact +
-                ", location=" + location +
-                ", venue=" + venue +
-                ", newChatMember=" + newChatMember +
-                ", leftChatMember=" + leftChatMember +
                 ", newChatTitle='" + newChatTitle + '\'' +
-                ", newChatPhoto=" + newChatPhoto +
                 ", deleteChatPhoto=" + deleteChatPhoto +
                 ", groupchatCreated=" + groupchatCreated +
                 ", replyToMessage=" + replyToMessage +
-                ", voice=" + voice +
                 ", caption=" + caption +
                 ", superGroupCreated=" + superGroupCreated +
                 ", channelChatCreated=" + channelChatCreated +

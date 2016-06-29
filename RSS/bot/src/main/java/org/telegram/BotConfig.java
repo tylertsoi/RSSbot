@@ -7,8 +7,6 @@ package org.telegram;
  * @date 20 of June of 2015
  */
 public class BotConfig {
-    //public static final String TOKENWEATHER = "<token>";
-    //public static final String USERNAMEWEATHER = "weatherbot";
     public static final String TOKENTRANSIFEX = "<token>";
     public static final String USERNAMETRANSIFEX = "TGlanguagesbot";
     public static final String TOKENFILES = "<token>";

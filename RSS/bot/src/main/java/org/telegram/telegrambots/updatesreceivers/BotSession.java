@@ -23,12 +23,9 @@ import org.telegram.telegrambots.api.methods.updates.GetUpdates;
 import org.telegram.telegrambots.api.objects.Message;
 import org.telegram.telegrambots.api.objects.Update;
 import org.telegram.telegrambots.bots.ITelegramLongPollingBot;
-import org.telegram.telegrambots.bots.TelegramLongPollingBot;
-import org.telegram.telegrambots.logging.BotLogger;
 import org.telegram.updateshandlers.WeatherHandlers;
+import org.telegram.updateshandlers.tryRSS;
 
-import de.vogella.rss.global.GlobalRssText;
-import de.vogella.rss.read.tryRSS;
 import static org.telegram.telegrambots.Constants.ERRORCODEFIELD;
 import static org.telegram.telegrambots.Constants.ERRORDESCRIPTIONFIELD;
 
@@ -39,19 +36,13 @@ import java.nio.charset.StandardCharsets;
 import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Ruben Bermudez
- * @version 1.0
- * @brief Thread to request updates with active wait
- * @date 20 of June of 2015
- */
 public class BotSession{
-    private static final String LOGTAG = "BOTSESSION";
     private static final int SOCKET_TIMEOUT = 75 * 1000;
 
     private final ITelegramLongPollingBot callback;
     private final ReaderThread readerThread;
     private final HandlerThread handlerThread;
+    // T: subThread is the Thread for subscribing use
     private final SubThread subThread;
     private final ConcurrentLinkedDeque<Update> receivedUpdates = new ConcurrentLinkedDeque<>();
     private final String token;
@@ -59,11 +50,15 @@ public class BotSession{
     private volatile boolean running = true;
     private volatile CloseableHttpClient httpclient;
     private volatile RequestConfig requestConfig;
+    
+    //Created by Tyler----------
+    //create variable for checking the PubDate(any updates?)
     private String WeatherPubDate;
     private String WarningPubDate;
+    //subscribe flag
     public static boolean isSubscribedWeather = false;
     public static boolean isSubscribedWarning = false;
-
+    // function for sending message
     public void Message(String ChatId, String Text){
         SendMessage sendMessageRequest = new SendMessage();
     	sendMessageRequest.setChatId(ChatId.toString());
@@ -72,7 +67,7 @@ public class BotSession{
     		sendMessage(sendMessageRequest);
     		} catch (TelegramApiException e){}
         }
-    
+    //--------------------------------
     public BotSession(String token, ITelegramLongPollingBot callback) {
         this.token = token;
         this.callback = callback;
@@ -121,7 +116,6 @@ public class BotSession{
                 httpclient.close();
                 httpclient = null;
             } catch (IOException e) {
-                BotLogger.severe(LOGTAG, e);
             }
         }
     }
@@ -172,20 +166,16 @@ public class BotSession{
                                     this.wait(500);
                                 }
                             } catch (InterruptedException e) {
-                                BotLogger.severe(LOGTAG, e);
                             }
                         }
                     } catch (InvalidObjectException | JSONException | TelegramApiException e) {
-                        BotLogger.severe(LOGTAG, e);
                     }
                 } catch (Exception global) {
-                    BotLogger.severe(LOGTAG, global);
                     try {
                         synchronized (this) {
                             this.wait(500);
                         }
                     } catch (InterruptedException e) {
-                        BotLogger.severe(LOGTAG, e);
                     }
                 }
             }
@@ -249,7 +239,6 @@ public class BotSession{
                             try {
                                 receivedUpdates.wait();
                             } catch (InterruptedException e) {
-                                BotLogger.severe(LOGTAG, e);
                                 continue;
                             }
                             update = receivedUpdates.pollLast();
@@ -260,12 +249,13 @@ public class BotSession{
                     }
                     callback.onUpdateReceived(update);
                 } catch (Exception e) {
-                    BotLogger.severe(LOGTAG, e);
                 }
             }
         }
     }
     
+    //Created by Tyler
+    //Thread for subscribing weather information/warning
     private class SubThread extends Thread {
         @Override
         public void run() {
@@ -302,3 +292,4 @@ public class BotSession{
     }
     
 }
+//-------------------------------------------------

@@ -9,7 +9,6 @@ import org.telegram.telegrambots.Constants;
 import org.telegram.telegrambots.api.methods.BotApiMethod;
 import org.telegram.telegrambots.api.methods.ParseMode;
 import org.telegram.telegrambots.api.objects.Message;
-import org.telegram.telegrambots.api.objects.replykeyboard.ReplyKeyboard;
 
 import java.io.IOException;
 
@@ -39,7 +38,6 @@ public class SendMessage extends BotApiMethod<Message> {
      */
     private Boolean disableNotification;
     private Integer replayToMessageId; ///< Optional. If the message is a reply, ID of the original message
-    private ReplyKeyboard replayMarkup; ///< Optional. JSON-serialized object for a custom reply keyboard
 
     public SendMessage() {
         super();
@@ -69,15 +67,6 @@ public class SendMessage extends BotApiMethod<Message> {
 
     public SendMessage setReplayToMessageId(Integer replayToMessageId) {
         this.replayToMessageId = replayToMessageId;
-        return this;
-    }
-
-    public ReplyKeyboard getReplayMarkup() {
-        return replayMarkup;
-    }
-
-    public SendMessage setReplayMarkup(ReplyKeyboard replayMarkup) {
-        this.replayMarkup = replayMarkup;
         return this;
     }
 
@@ -144,10 +133,6 @@ public class SendMessage extends BotApiMethod<Message> {
         if (replayToMessageId != null) {
             jsonObject.put(REPLYTOMESSAGEID_FIELD, replayToMessageId);
         }
-        if (replayMarkup != null) {
-            jsonObject.put(REPLYMARKUP_FIELD, replayMarkup.toJson());
-        }
-
         return jsonObject;
     }
 
@@ -183,10 +168,6 @@ public class SendMessage extends BotApiMethod<Message> {
         if (replayToMessageId != null) {
             gen.writeNumberField(REPLYTOMESSAGEID_FIELD, replayToMessageId);
         }
-        if (replayMarkup != null) {
-            gen.writeObjectField(REPLYMARKUP_FIELD, replayMarkup);
-        }
-
         gen.writeEndObject();
         gen.flush();
     }
@@ -204,7 +185,6 @@ public class SendMessage extends BotApiMethod<Message> {
                 ", parseMode='" + parseMode + '\'' +
                 ", disableWebPagePreview=" + disableWebPagePreview +
                 ", replayToMessageId=" + replayToMessageId +
-                ", replayMarkup=" + replayMarkup +
                 '}';
     }
 }
