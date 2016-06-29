@@ -18,7 +18,18 @@ BotConfig.java and be found in src/main/java/org/telegram/BotConfig.java
 
 5. Run Main.java in eclipse.
 
-type commands in your bot
+6.type commands in your bot
+/topics
+/currentWeather
+/currentWarning
+/subscribeWeather
+/subscribeWarning
+/unSubscribeWeather
+/unSubscribeWarning
+/繁體中文
+/简体中文
+/English
+
 
 My own works : tryRSS.java, weatherHandler.java, BotSession.java Other things are import from the Api given by telegramBotApi.
 
